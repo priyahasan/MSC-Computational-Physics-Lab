@@ -1,1 +1,1 @@
-This is for MSC: Computational Physics Lab
+This is for MSc: Computational Physics Lab
